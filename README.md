@@ -1,7 +1,7 @@
 # Mobile App Testing  
 
 This section is dedicated to testing the mobile application [Shopping List](https://appdistribution.firebase.google.com/pub/i/ef0e71eeb4f2d6a5),  
-which allows the user to create a task list for organizing and managing daily tasks.
+which allows the user to create a task list for organizing and managing daily tasks.  
 Here I also present my practical work with Charles Proxy and the mobile version of the application [demoshopping.ru](https://demoshopping.ru/).
 
 ---
